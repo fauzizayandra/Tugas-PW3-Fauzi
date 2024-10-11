@@ -1,0 +1,21 @@
+.banner{
+    background-color: black;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color:#fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
